@@ -30,7 +30,11 @@
         <button type="submit">Simpan</button>
     </form>
 
+
     <div id="responseMessage" style="margin-top: 20px;"></div>
+
+    <br><br><br>
+    <a href="FR.php">Kembali</a>
 
     <script>
         // Tangkap elemen form
