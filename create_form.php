@@ -8,6 +8,7 @@
 <body>
     <h1>Tambah Data Siswa</h1>
     <form action="https://dantevergil.biz.id/create.php" id="formSiswa">
+
         <label for="nis">NIS:</label>
         <input type="text" name="nis" id="nis"><br><br>
 
@@ -35,6 +36,7 @@
 
     <br><br><br>
     <a href="FR.php">Kembali</a>
+    
 
     <script>
         // Tangkap elemen form
